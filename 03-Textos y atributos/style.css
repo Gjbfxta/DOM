@@ -1,0 +1,11 @@
+html{
+  background-color: rgb(198, 209, 240);
+}
+
+span {
+  color: rgb(245, 41, 18);
+}
+
+.oculto {
+  display: none;
+}

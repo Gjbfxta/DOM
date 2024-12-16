@@ -1,0 +1,43 @@
+body {
+    background-color: rgba(54, 79, 124, 0.678);
+    color: rgb(199, 172, 243);
+    font-family: Montserrat, sans-serif;
+}
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container {
+    background-color:rgb(177, 170, 197);
+    color: rgb(216, 126, 252);
+    padding: 24px;
+    max-width: 400px;
+    border-radius: 12px;
+}
+.subtitle {
+    margin-bottom: 24px;
+    color:rgb(107, 221, 103);
+}
+.list {
+    list-style: none;
+}
+.list-item {
+    padding: 12px 8px;
+    color: aliceblue;
+    margin-bottom: 12px;
+    border-radius: 12px;
+    cursor: pointer;
+}
+.bg-one {
+    background-color: rgb(87, 197, 224);
+}
+.bg-one:hover {
+    background-color: rgb(218, 33, 101);
+}
+.bg-two {
+    background-color: rgb(52, 138, 85);
+}
+.bg-two:hover {
+    background-color: rgb(195, 254, 85);
+}
